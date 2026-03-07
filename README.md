@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Harshini
 
-<!--
-**Harshini-ctrl/Harshini-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Engineering Student at CMRCET
 
-Here are some ideas to get you started:
+💻 MERN Stack Developer  
+⚡ C++ | Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about building scalable and efficient software solutions  
+🧠 Strong interest in problem solving and system design
+
+📂 On my GitHub, I showcase projects I have built using modern technologies, focusing on:
+- ⚙️ Scalability  
+- 🧩 Clean architecture  
+- 🚀 Performance and efficiency
+
+🌱 Currently improving DSA, full-stack development, and real-world project building
