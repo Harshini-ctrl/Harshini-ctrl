@@ -2,7 +2,6 @@
 
 🎓 3rd Year Computer Science Engineering Student at CMRCET
 
-💻 MERN Stack Developer  
 ⚡ C++ | Data Structures & Algorithms
 
 🚀 Passionate about building scalable and efficient software solutions  
