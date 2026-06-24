@@ -1,6 +1,6 @@
 # Hi 👋 I'm Harshini
 
-🎓 3rd Year Computer Science Engineering Student at CMRCET
+🎓 4th Year Computer Science Engineering Student at CMRCET
 
 ⚡ C++ | Data Structures & Algorithms
 
